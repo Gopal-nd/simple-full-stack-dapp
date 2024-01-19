@@ -92,7 +92,7 @@ const App = () => {
         <Buy state={state} />
         <Memos state={state} />
       </div>
-    </AppContainer>
+    </AppContainer>//done
   );
 };
 
